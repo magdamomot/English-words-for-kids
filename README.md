@@ -1,2 +1,2 @@
 # magda
-page
+Web app
